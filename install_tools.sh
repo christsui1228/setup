@@ -31,4 +31,4 @@ echo "--> 步骤 2/2: 正在安装以下软件包: ${PACKAGES_TO_INSTALL}..."
 apt install -y $PACKAGES_TO_INSTALL
 
 echo "" # 打印一个空行
-echo "✅ 操作成功完成！所有软件包已安装。
+echo "✅ 操作成功完成！所有软件包已安装。"
