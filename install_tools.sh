@@ -20,7 +20,7 @@ fi
 
 # --- 变量定义 ---
 # 将需要安装的软件包列表定义为一个变量，方便未来修改
-PACKAGES_TO_INSTALL="curl vim python3-venv"
+PACKAGES_TO_INSTALL="curl vim python3-venv tilix zsh"
 
 # --- 脚本主体 ---
 echo "--> 步骤 1/2: 正在更新软件包列表..."
